@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://harryphan72007.github.io/minh-phan-portfolio/">Portfolio</a> ·
-  <a href="mailto:phan0368@umn.edu">Email</a> ·
+  <a href="mailto:quangminhph07@gmail.com">Email</a> ·
   <a href="https://openreview.net/forum?id=k1P5W70u2V">Research</a>
 </p>
 
@@ -51,4 +51,4 @@ Layer-wise perturbation profiles for diagnosing vision robustness. My contributi
 
 ## Contact
 
-The best overview of my work is my [portfolio](https://harryphan72007.github.io/minh-phan-portfolio/). For academic or internship-related conversations, email me at [phan0368@umn.edu](mailto:phan0368@umn.edu).
+The best overview of my work is my [portfolio](https://harryphan72007.github.io/minh-phan-portfolio/). For academic or internship-related conversations, email me at [quangminhph07@gmail.com](mailto:quangminhph07@gmail.com).
