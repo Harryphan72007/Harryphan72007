@@ -15,7 +15,6 @@ I am a Computer Science student interested in the engineering around machine lea
 
 - B.S. Computer Science, University of Minnesota Twin Cities · Expected May 2028 · GPA 3.93
 - Software Engineering Intern at FPT Software
-- Undergraduate Research Volunteer at Ding Lab
 - Contributor to *The Shape of Noise*, accepted to CTB at ICML 2026
 
 ## Selected work
