@@ -23,7 +23,7 @@ I am a Computer Science student interested in the engineering around machine lea
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
 | [NoteFlow AI](https://github.com/Harryphan72007/NoteFlow-AI) | FastAPI and React workflow for reviewable ASR/OCR records, comparisons, audit history, tasks, and exports | Active prototype; synthetic data only |
-| [Aerial Object Detection Benchmark](https://github.com/Harryphan72007/aerial-object-detection-benchmark) | Reproducible VisDrone evaluation scaffold for CNN, DETR, Vision Mamba, and RT-DETR families | Infrastructure complete; experiments pending |
+| [Aerial Object Detection Benchmark](https://github.com/Harryphan72007/aerial-object-detection-benchmark) | Reproducible VisDrone evaluation scaffold for CNN, DETR, Vision Mamba, and RT-DETR families | CPU-validated framework; GPU benchmark runs and results pending |
 | [ML Engineering Portfolio](https://github.com/Harryphan72007/minh-phan-portfolio) | Accessible, tested portfolio with verified case studies and automated GitHub Pages deployment | [Live site](https://harryphan72007.github.io/minh-phan-portfolio/) |
 
 ## Research
